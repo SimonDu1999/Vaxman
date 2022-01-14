@@ -1,2 +1,2 @@
 # Vaxman
-2D Game modified based on Pacman
+2D C++ Game modified based on Pacman
